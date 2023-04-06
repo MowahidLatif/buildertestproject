@@ -113,4 +113,4 @@ Builder.registerComponent(MyCustomComponent, {
 Builder.register('insertMenu', {
   name: 'My Components',
   items: [{ item: 'ExampleCustomComponent', name: 'My React Component' }],
-});
+}); 
